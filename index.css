@@ -39,6 +39,10 @@
 .content .js-clock{
     font-size: 30px;
 }
+.content .js-form input{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
 .content .greetings{
     font-size: 30px;
 }
